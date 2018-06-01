@@ -1,0 +1,28 @@
+{
+  "name": "npm-project-from-scratch-1",
+  "version": "1.0.0",
+  "description": "node_practice\t",
+  "main": "y",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "\"mocha\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntmbayfield/node-npm-project-from-scratch-1.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "galvanize",
+    "q2"
+  ],
+  "author": "n bayfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntmbayfield/node-npm-project-from-scratch-1/issues"
+  },
+  "homepage": "https://github.com/ntmbayfield/node-npm-project-from-scratch-1#readme"
+}
