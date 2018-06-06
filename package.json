@@ -4,10 +4,10 @@
   "description": "node_practice\t",
   "main": "y",
   "directories": {
-    "test": "test"
+    "test": "mocha"
   },
   "scripts": {
-    "test": "\"mocha\""
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/ntmbayfield/node-npm-project-from-scratch-1/issues"
   },
-  "homepage": "https://github.com/ntmbayfield/node-npm-project-from-scratch-1#readme"
+  "homepage": "https://github.com/ntmbayfield/node-npm-project-from-scratch-1#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
 }

@@ -1,4 +1,4 @@
-const main = require('../src/main.js')
+const main = require('../src/main')
 const expect = require('chai').expect
 
 describe('main', function () {
